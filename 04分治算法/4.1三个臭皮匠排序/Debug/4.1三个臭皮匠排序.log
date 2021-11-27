@@ -1,0 +1,6 @@
+﻿D:\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(4.1三个臭皮匠排序.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  4.1.cpp
+D:\allCode\C\数据结构\数据结构和算法\4.1三个臭皮匠排序\4.1.cpp(7,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\allCode\C\数据结构\数据结构和算法\4.1三个臭皮匠排序\4.1.cpp(31,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\allCode\C\数据结构\数据结构和算法\4.1三个臭皮匠排序\4.1.cpp(49,20): warning C4018: “<”: 有符号/无符号不匹配
+  4.1三个臭皮匠排序.vcxproj -> D:\allCode\C\数据结构\数据结构和算法\Debug\4.1.1三个臭皮匠排序.exe
